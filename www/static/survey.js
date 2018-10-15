@@ -2,6 +2,10 @@
 //var apipath='http://m.businesssolutionapps.com/mrepmobile/android_acme/'
 var apipath='http://e.businesssolutionapps.com/mrepmobile/android_acme/'
 
+var  apipath_base_photo_dm='http://c003.cloudapp.net/demo/syncmobile_417_new/dmpath?CID='+cid +'&HTTPPASS=e99business321cba'
+
+
+
 
 var mobile_off_flag=0;
 
